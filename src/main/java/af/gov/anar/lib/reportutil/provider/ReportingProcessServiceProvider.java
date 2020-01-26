@@ -1,9 +1,10 @@
 
 package af.gov.anar.lib.reportutil.provider;
 
-import af.gov.anar.template.infrastructure.core.report.annotation.ReportService;
-import af.gov.anar.template.infrastructure.core.report.service.ReportingProcessService;
-import org.apache.commons.lang3.ArrayUtils;
+
+import af.gov.anar.lib.reportutil.annotation.ReportService;
+import af.gov.anar.lib.reportutil.service.ReportingProcessService;
+import org.apache.commons.lang.ArrayUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeansException;
