@@ -11,6 +11,11 @@
 
 ```
 
+#### Features
+
+- Report Entity Annotations
+- Annotation Parser Configs
+
 #### Documentation
 
 Refer to this repository **Wiki** section.
